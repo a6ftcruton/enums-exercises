@@ -44,6 +44,7 @@ class FindPatternTest < Minitest::Test
     skip
     numbers = [2, 13, 19, 8, 3, 27]
     # Your code goes here
+    # Your code goes here
     assert_equal 13, found
   end
 
