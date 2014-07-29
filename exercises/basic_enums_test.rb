@@ -20,4 +20,3 @@ class BasicEnumsTest < Minitest::Test
   end
 
 end
-

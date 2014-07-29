@@ -93,4 +93,3 @@ class BonusQuestionsTest < Minitest::Test
     assert_equal unicorn4, found
   end
 end
-
